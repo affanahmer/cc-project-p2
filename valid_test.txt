@@ -1,0 +1,16 @@
+begin_main
+    integer x;
+    real y;
+    
+    x := 10;
+    y := 5.5;
+    
+    x := x + 1;
+    
+    if_cond (x) 
+        print(x);
+    
+    repeat_while (x)
+        x := x + 1;
+        
+end_main
