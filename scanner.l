@@ -1,6 +1,5 @@
 %{
 #include <stdio.h>
-#include <string.h>
 #include "parser.tab.h" /* Updated header name */
 
 %}
