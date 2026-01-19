@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "parser.tab.h" /* Updated header name */
-/* We removed int yylineno = 1; to fix the error */
+
 %}
 
 /* Tell Flex to track line numbers automatically */
